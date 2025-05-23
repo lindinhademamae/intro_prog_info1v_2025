@@ -9,4 +9,18 @@ Q2 - Escreva um algoritmo que calcule a soma de dois números inteiros e mostre 
     2. Calculo a soma desses números;
     3. Mostro o resultado desse cálculo.
 
-Q3 - 
+Q3 - Escreva um algoritmo qye leia dois números inteiros 'a' e 'b', calcule a soma deles e mostre o resultado.
+    2. Calcule a soma de 'a' mais 'b';
+    3. Mostre o resultado dessa soma.
+
+    Rfefinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a soma de [a] + [b]
+    3. Mostre o resultado dessa soma.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a [soma] = [a] + [b];
+    3. Mostre [soma].
