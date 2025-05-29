@@ -1,1 +1,79 @@
 
+Q1 - Escreva um algoritmo que calcule a soma da dois números inteiros.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a soma desses números;
+
+Q2 - Escreva um algoritmo que calcule a soma de dois números inteiros e mostre o resultado.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a soma desses números;
+    3. Mostro o resultado desse cálculo.
+
+Q3 - Escreva um algoritmo qye leia dois números inteiros 'a' e 'b', calcule a soma deles e mostre o resultado.
+    2. Calcule a soma de 'a' mais 'b';
+    3. Mostre o resultado dessa soma.
+
+    Rfefinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a soma de [a] + [b]
+    3. Mostre o resultado dessa soma.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a [soma] = [a] + [b];
+    3. Mostre [soma].
+
+Exercício
+
+1 - Escreva um algoritmo que leia dois números inteiros 'a' e 'b', calcule a diferença deles e mostre o resultado.
+  2. Calcule a diferença de 'a' menos 'b';
+  3. Mostre o resultado dessa diferença.
+
+  Refinando o 'código':
+  1. Leia os números [a] e [b];
+  2. Calcule a diferença de [a] - [b];
+  3. Apresente o resultado dessa diferença.
+
+  Refinando 'código':
+  1. Leia [a] e [b];
+  2. Calcule [diferença] = [a] - [b];
+  3. Apresente [diferença].
+
+
+2 - Escreva um algoritmo que leia dois números inteiros 'a' e 'b', calcule o produto deles e mostre o resultado.
+  3. Leia [a] e [b];
+  4. Calcule o produto de [a] e [b];
+  5. Apresente o resultado dessa multiplicação.
+
+  Refinando 'código':
+  3. Leia [a] e [b];
+  4. Calcule [produto] de [a] e [b];
+  5. Apresente o resultado dessa multiplicação.
+
+  Refinando 'código':
+  3. Leia [a] e [b];
+  4. Calcule [produto] = [a] x [b];
+  5. Apresente [produto].
+
+
+
+3 - Escreva um algoritmo que leia dois números inteiros 'a' e 'b', calcule o quociente entra eles e mostre o resultado.
+  4. Leia [a] e [b];
+  5. Calcule o quociente de [a] e [b];
+  6. Mostre o resultado dessa divisão.
+
+  Refinando 'código':
+  4. Leia [a] e [b]
+  5. Calcule [quociente] de [a] e [b];
+  6. Apresente o resultado dessa divisão.
+
+  Refinando 'código':
+  4. Leia [a] e [b]
+  5. Calcule [quociente] = [a] : [b]
+  6. Apresente [quociente].
+
+
+
