@@ -269,40 +269,272 @@ Leia o tempo gasto em horas e a velocidade média. Calcule a distância total (v
     5. Mostre o resultado.
 
     Refinando 'código':
+    2. Leia: [a] representa o tempo em horas; [b] representa a velocidade.
+    3. Calcule [distancia total] = [a] x [b];
+    4. Calcule o tempo em minutos, dado pela multiplicação de [a] x [60].
+    5. Mostre o resultado.
+
+    Refinando 'código':
+    2. Leia: [a] representa o tempo em horas; [b] representa a velocidade.
+    3. Calcule [distancia total] = [a] x [b];
+    4. Calcule [tempo em minutos] = [a] x [60].
+    5. Mostre o resultado.
+
+    Refinando 'código':
+    2. Leia: [a] representa o tempo em horas; [b] representa a velocidade.
+    3. Calcule [distancia total] = [a] x [b];
+    4. Calcule [tempo em minutos] = [a] x [60].
+    5. Mostre [distancia total] e [tempo em minutos].
 
 10. Conversão de dias em horas:
 Leia um número de dias e converta para horas (1 dia = 24 horas).
+    2. Leia [2], que representa os dias e [24], que representa o total de horas de um dia.
+    3. Calcule a conversão, dada pelo produto de [2] vezes [24].
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    2. Leia: [2] = dias; [24] = total de horas em um dia
+    3. Calcule a conversão, dada pelo produto de [2] vezes [24].
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    2. Leia: [2] = dias; [24] = total de horas em um dia
+    3. Calcule [conversão] = [2] x [24].
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    2. Leia: [2] = dias; [24] = total de horas em um dia
+    3. Calcule [conversão] = [2] x [24].
+    4. Mostre [conversão].
 
 11. Conversão de minutos em segundos:
 Leia uma quantidade de minutos e converta para segundos.
+    2. Leia [a], que representa os minutos e [60], que é o valor total de um minuto;
+    3. Calcule a conversão, dada pelo produto de [a] vezes [60];
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    2. Leia: [a] = minutos; [60] = total de um minuto;
+    3. Calcule a conversão, dada pelo produto de [a] vezes [60];
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    2. Leia: [a] = minutos; [60] = total de um minuto;
+    3. Calcule [conversão] = [a] x [60];
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    2. Leia: [a] = minutos; [60] = total de um minuto;
+    3. Calcule [conversão] = [a] x [60];
+    4. Mostre [conversão].
 
 12. Cálculo do novo salário:
 Leia um salário e um valor de aumento fixo. Exiba o novo salário.
+    2. Leia [a], que representa o salário atual e [b], que representa o aumento;
+    3. Calcule o novo salário, dado pela soma de [a] mais [b];
+    4. Mostre o resultado dessa soma.
+
+    Refinando 'código':
+    1. Leia um salário e um valor de aumento fixo. Exiba o novo salário.
+    2. Leia: [a] = salário atual; [b] = aumento;
+    3. Calcule o novo salário, dado pela soma de [a] mais [b];
+    4. Mostre o resultado dessa soma.
+
+    Refinando 'código':
+    1. Leia um salário e um valor de aumento fixo. Exiba o novo salário.
+    2. Leia: [a] = salário atual; [b] = aumento;
+    3. Calcule [novo salário] = [a] + [b]
+    4. Mostre o resultado dessa soma.
+
+    Refinando 'código':
+    1. Leia um salário e um valor de aumento fixo. Exiba o novo salário.
+    2. Leia: [a] = salário atual; [b] = aumento;
+    3. Calcule [novo salário] = [a] + [b]
+    4. Mostre [novo salário]
 
 13. Cálculo de juros simples:
 Leia capital, taxa de juros mensal e tempo em meses. Calcule o montante com juros simples:
 M = C + (C * i * t).
+    2. Leia [a], que representa o capital; [b], que representa a taxa de juros mensal e [c], que representa o tempo em meses;
+    3. Calcule o moontante dado pela soma de [a] com o produto de [a] vezes [b] vezes [c];
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    1.Leia capital, taxa de juros mensal e tempo em meses. Calcule o montante com juros simples:
+    M = C + (C * i * t).
+    2. Leia: [a] = capital; [b] = taxa de juros; [c] = tempo;
+    3. Calcule o moontante dado pela soma de [a] com o produto de [a] vezes [b] vezes [c];
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    1.Leia capital, taxa de juros mensal e tempo em meses. Calcule o montante com juros simples:
+    M = C + (C * i * t).
+    2. Leia: [a] = capital; [b] = taxa de juros; [c] = tempo;
+    3. Calcule [montante] = [a] + ([a] x [b] x [c])
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    1.Leia capital, taxa de juros mensal e tempo em meses. Calcule o montante com juros simples:
+    M = C + (C * i * t).
+    2. Leia: [a] = capital; [b] = taxa de juros; [c] = tempo;
+    3. Calcule [montante] = [a] + ([a] x [b] x [c])
+    4. Mostre [montante].
 
 14. Troco de uma compra:
 Leia o valor da compra e o valor pago. Calcule o troco.
+    2. Leia [a], que representa o valor da compra e [b], que representa o valor pago;
+    3. Calcule o troco, que é dado pela diferença de [a] menos [b];
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    1. Leia o valor da compra e o valor pago. Calcule o troco.
+    2. Leia: [a] = valor da compra; [b] = valor pago;
+    3. Calcule o troco, que é dado pela diferença de [a] menos [b];
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    1. Leia o valor da compra e o valor pago. Calcule o troco.
+    2. Leia: [a] = valor da compra; [b] = valor pago;
+    3. Calcule [troco] = [a] - [b]
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    1. Leia o valor da compra e o valor pago. Calcule o troco.
+    2. Leia: [a] = valor da compra; [b] = valor pago;
+    3. Calcule [troco] = [a] - [b]
+    4. Mostre [troco].
 
 15. Cálculo do IMC (Índice de Massa Corporal):
 Leia o peso (kg) e a altura (m), e calcule o IMC usando a fórmula:
 IMC = peso / (altura ** 2).
+    2. Leia [a], que representa o peso e [b], que representa a altura;
+    3. Calcule o IMC, dado pelo quociente de [a] por [b]²;
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    1.Leia o peso (kg) e a altura (m), e calcule o IMC usando a fórmula:
+    IMC = peso / (altura ** 2).
+    2. Leia: [a] = peso; [b] = altura;
+    3. Calcule o IMC, dado pelo quociente de [a] por [b]²;
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    1.Leia o peso (kg) e a altura (m), e calcule o IMC usando a fórmula:
+    IMC = peso / (altura ** 2).
+    2. Leia: [a] = peso; [b] = altura;
+    3. Calcule [IMC] = [a] : [b]²;
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    1.Leia o peso (kg) e a altura (m), e calcule o IMC usando a fórmula:
+    IMC = peso / (altura ** 2).
+    2. Leia: [a] = peso; [b] = altura;
+    3. Calcule [IMC] = [a] : [b]²;
+    4. Mostre [IMC].
 
 16. Perímetro de um círculo:
 Leia o raio de um círculo e calcule o perímetro:
 P = 2 * π * raio (use π = 3.14).
+    2. Leia [a], que representa o raio e [3,14], que representa π (pi);
+    3. Calcule o perímetro, dado pelo produto de [2] vezes [π] vezes [a];
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    1. Leia o raio de um círculo e calcule o perímetro:
+    P = 2 * π * raio (use π = 3.14).
+    2. Leia: [a] = raio; [3,14] = π
+    3. Calcule o perímetro, dado pelo produto de [2] vezes [π] vezes [a];
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    1. Leia o raio de um círculo e calcule o perímetro:
+    P = 2 * π * raio (use π = 3.14).
+    2. Leia: [a] = raio; [3,14] = π
+    3. Calcule [perímetro] = [2] x [π] x [a]
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    1. Leia o raio de um círculo e calcule o perímetro:
+    P = 2 * π * raio (use π = 3.14).
+    2. Leia: [a] = raio; [3,14] = π
+    3. Calcule [perímetro] = [2] x [π] x [a]
+    4. Mostre [perímetro].
 
 17. Diferença de idades:
 Leia duas idades e calcule a diferença entre elas.
+    2. Leia [a], que representa a idade de José e [b], que representa a idade de Emanuele;
+    3. Calcule a diferença entre [a] e [b];
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    1. Leia duas idades e calcule a diferença entre elas.
+    2. Leia: [a] = idade de José; [b] = idade de Emanuele;
+    3. Calcule a diferença entre [a] e [b];
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    1. Leia duas idades e calcule a diferença entre elas.
+    2. Leia: [a] = idade de José; [b] = idade de Emanuele;
+    3. Calcule [diferença] = [a] - [b]
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    1. Leia duas idades e calcule a diferença entre elas.
+    2. Leia: [a] = idade de José; [b] = idade de Emanuele;
+    3. Calcule [diferença] = [a] - [b]
+    4. Mostre [diferença].
 
 18. Média de consumo de combustível:
 Leia a distância percorrida (km) e o total de combustível gasto (litros) e calcule a média de consumo:
 consumo = km / litros.
+    2. Leia: [a] = distância percorrida; [b] = combustível gasto;
+    3. Calcule a média de consumo, que é dada por [a] dividido por [b];
+    4. Mostre o resultado.
+
+    Refinando "código':
+    1.Leia a distância percorrida (km) e o total de combustível gasto (litros) e calcule a média de consumo:
+    consumo = km / litros.
+    2. Leia: [a] = distância percorrida; [b] = combustível gasto;
+    3. Calcule [media de consumo] = [a] : [b];
+    4. Mostre o resultado.
+
+    Refinando "código':
+    1.Leia a distância percorrida (km) e o total de combustível gasto (litros) e calcule a média de consumo:
+    consumo = km / litros.
+    2. Leia: [a] = distância percorrida; [b] = combustível gasto;
+    3. Calcule [media de consumo] = [a] : [b];
+    4. Mostre [media de consumo].
 
 19. Valor a pagar em conta dividida:
 Leia o valor total de uma conta e o número de pessoas. Calcule quanto cada uma deve pagar.
+    2. Leia: [a] = valor total e [b] = número de pessoas;
+    3. Calcule a parcela de cada um, dado pelo quociente de [a] dividido por [b];
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    2. Leia: [a] = valor total e [b] = número de pessoas;
+    3. Calcule [parcela] = [a] : [b]
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    2. Leia: [a] = valor total e [b] = número de pessoas;
+    3. Calcule [parcela] = [a] : [b]
+    4. Mostre [parcela].
 
 20. Cálculo de desconto:
 Leia o valor de um produto e a porcentagem de desconto. Exiba o valor com desconto.
+    2. Leia: [a] = valor; [b] = desconto;
+    3. Calcule o valor com desconto, dado pela diferença de [a] pelo produto de [a] vezes [b] : 100;
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    1. Leia o valor de um produto e a porcentagem de desconto. Exiba o valor com desconto.
+    2. Leia: [a] = valor; [b] = desconto;
+    3. Calcule [valor com desconto] = [a] - ([a] x [b]) : 100;
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    1. Leia o valor de um produto e a porcentagem de desconto. Exiba o valor com desconto.
+    2. Leia: [a] = valor; [b] = desconto;
+    3. Calcule [valor com desconto] = [a] - ([a] x [b]) : 100;
+    4. Mostre [valor com desconto].
