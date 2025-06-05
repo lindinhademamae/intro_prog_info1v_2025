@@ -184,15 +184,91 @@ F = (9 * C + 160) / 5.
 
 6. Média ponderada de três notas:
 Leia três notas e seus respectivos pesos e calcule a média ponderada.
+   2. Leia [a], [b] e [c], que são números reais representando as notas; leia [d], [e] e [f], que são números reais representando os pesos;
+   3. Calcule a soma de todas as notas com seus respectivos pesos;
+   4. Calcule a soma de todos os pesos;
+   5. Mostre o resultado.
+
+   Refinando 'código';
+   1. Leia: ([a], [b], [c]) = notas; ([d], [e], [f] = pesos;
+   2. Calcule o produto de todas as notas com seus respectivos pesos;
+   3. Calcule a soma de todos os pesos;
+   4. Calcule a media ponderada do produto com a soma de todos os pesos;
+   5. Mostre o resultado.
+
+   Refinando 'código';
+   1. Leia: ([a], [b], [c]) = notas; ([d], [e], [f] = pesos;
+   2. Calcule [produto] = ([a] x [d]) + ([b] x [e]) + ([c] x [f])
+   3. Calcule a soma de todos os pesos;
+   4. Calcule a media ponderada do produto com a soma de todos os pesos;
+   5. Mostre o resultado.
+
+   Refinando 'código';
+   1. Leia: ([a], [b], [c]) = notas; ([d], [e], [f] = pesos;
+   2. Calcule [produto] = ([a] x [d]) + ([b] x [e]) + ([c] x [f])
+   3. Calcule [soma] = [d] + [e] + [f];
+   4. Calcule a media ponderada do produto com a soma de todos os pesos;
+   5. Mostre o resultado.
+
+   Refinando 'código';
+   1. Leia: ([a], [b], [c]) = notas; ([d], [e], [f] = pesos;
+   2. Calcule [produto] = ([a] x [d]) + ([b] x [e]) + ([c] x [f])
+   3. Calcule [soma] = [d] + [e] + [f];
+   4. Calcule [media ponderada] = [produto] : [soma]
+   5. Mostre o resultado.
+
+   Refinando 'código';
+   1. Leia: ([a], [b], [c]) = notas; ([d], [e], [f] = pesos;
+   2. Calcule [produto] = ([a] x [d]) + ([b] x [e]) + ([c] x [f])
+   3. Calcule [soma] = [d] + [e] + [f];
+   4. Calcule o [media ponderada] = [produto] : [soma]
+   5. Mostre [media ponderada].
 
 7. Volume de uma caixa retangular:
 Leia o comprimento, a largura e a altura de uma caixa e calcule seu volume.
+   2. Leia os números reais [a], que representa o comprimento; [b], que representa a largura; e [c], que representa a altura.
+   3. Calcule o volume, dado pela soma de todos os números mencionados.
+   4. Mostre o resultado.
+
+   Refinando 'código':
+    1. Leia [a] = comprimento; [b] = largura; [c] = altura;
+    3. Calcule o volume, dado pela soma de todos os números mencionados.
+    4. Mostre o resultado.
+
+   Refinando 'código':
+    1. Leia [a] = comprimento; [b] = largura; [c] = altura;
+    3. Calcule [volume] = [a] + [b] + [c]
+    4. Mostre o resultado.
+
+   Refinando 'código':
+    1. Leia [a] = comprimento; [b] = largura; [c] = altura;
+    3. Calcule [volume] = [a] + [b] + [c]
+    4. Mostre [volume].
 
 8. Valor total da compra:
 Leia o preço de três produtos e exiba o valor total da compra.
+    2. Leia [a], [b] e [c];
+    3. Calcule o valor total, que é dado pela soma dos números reais mencionados.
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    1. Leia [a], [b] e [c];
+    3. Calcule [valor total] = [a] + [b] + [c]
+    4. Mostre o resultado.
+
+    Refinando 'código':
+    1. Leia [a], [b] e [c];
+    3. Calcule [valor total] = [a] + [b] + [c]
+    4. Mostre [valor total].
 
 9. Tempo total de uma viagem:
 Leia o tempo gasto em horas e a velocidade média. Calcule a distância total (velocidade × tempo) e o tempo total em minutos.
+    2. Leia: [a] representa o tempo em horas; [b] representa a velocidade.
+    3. Calcule a distância total, dada pela multiplicação de [a] vezes [b];
+    4. Calcule o tempo em minutos, dado pela multiplicação de [a] x [60].
+    5. Mostre o resultado.
+
+    Refinando 'código':
 
 10. Conversão de dias em horas:
 Leia um número de dias e converta para horas (1 dia = 24 horas).
